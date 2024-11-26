@@ -1,6 +1,6 @@
 <div align="center"><img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzNrMWlkMHFmOGhhMHAwNmw3YzV5YmsyYmk2Y2huNGhrczdnOHg4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okNrkVP7lSMKpIEmHn/giphy.gif width=30% height=30%><h1 class='text'>I am Yaroslava 👋</h1></div>
 
-<h2>👩ABOUT ME</h1> 
+<h4>👩ABOUT ME</h4> 
 
 ```
 I am a purposeful Data Scientist who has gained extensive training experience in data analysis and machine learning.
@@ -20,47 +20,42 @@ to solve business problems, automate and optimise processes.
 <h2><center>${\color{red}Competences}$</h1></center></h1>
 
 <h4>$${\color{blue}1. Data Engineering, Data Mining}$$</h2>
- <ul>1. Base skills to work with <b>relational database</b> as well as <b>non-relational DB</b>:</ul>
- 
- |key-value|column-based|document-based|
-  |-----|-----|------|
-  <ul>2. <b>Scraping-Parsing</b> skills: requests, bs4, API REST, selenium</ul>
+ <ul><b>1. Base skills to work with relational database as well as non-relational DB:</b> key-value, column-based, document-based</ul>
+ <ul><b>2. Scraping-Parsing skills: requests, bs4, API REST, selenium</b></ul>
  
  <h4>$${\color{blue}2. Feature Engineering}$$</h2>
- <li>Data cleaning and transformation, generation of new features</li>
+ <li><b>1. Data cleaning and transformation</b></li>
+ <li><b>2. Generation of new features</b></li>
 
  <h4>$${\color{blue}3. Exploratory Data Analysis}$$</h2>
- <ul>1. <b>Mathematical, statistical Data analysis</b>, discover insights, specificies using any visualisation libraries:</ul>
+ <ul><b>1. Mathematical, statistical Data analysis, discover insights, specificies using any visualisation libraries:</b></ul>
    
   |matplotlib|seaborn|plotly|numpy|pandas|scipy|statsmodels|
   |-----|-----|------|-----|-----|-----|-----|
   
 <h4>$${\color{blue}4. Machine Learning}$$</h2>
-<ul>1. High level of ML skills building from simple to ensemble models:</ul>
+<ul><b>1. High level of ML skills building from simple to ensemble models:</b></ul>
 
   |Linear/Logistic models|DecisionTree|Bagging|Boosting|Stacking|Time Series|NLP|Recommendation System|Neural Network|
   |-----|-----|------|-----|-----|-----|-----|------|-----|
                
-<ul>2. Advanced user: </ul> 
+<ul><b>2. Advanced user:</b></ul> 
 
   |scikit-sklearn|catboost|xgboost|arima/garch|prophet|nltk|lightfm|tensorflow|
   |-----|-----|------|-----|-----|-----|-----|------|
               
-<ul>3. Algorithm optimisation using hyperparameter tuning: hyperopt, optuma</ul>  
+<ul><b>3. Algorithm optimisation using hyperparameter tuning: hyperopt, optuma</b></ul>  
 
 <h4>$${\color{blue}5. Evaluation}$$</h2>
-<li>Knowledge of all metrics for ML tasks and business metrics to validate the quality of modelling</li>
+<li><b>1. Knowledge of all metrics for ML tasks and business metrics to validate the quality of modelling</b></li>
 
 <h4>$${\color{blue}6. Deployment}$$</h2>
-<ul>1.The process of integrating a machine learning model into a production environment:
-               <li>streamlit</li> 
-               <li>flask</li> 
-               <li>docker compose</li></li> 
-               <li>rabbitMQ</li> 
-               <li>Spark</li>
-</ul>
+<ul><b>1.The process of integrating a machine learning model into a production environment:</b></ul>
 
-### <font color="#red">Favorite tools: </font>
+ |streamlit|flask|docker compose|rabbitMQ|Spark|
+  |-----|-----|------|-----|-----|
+             
+## $${\color{red}Favorite}$$ $${\color{red}tools}$$
 <img width="64" height="64" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/> <img width="64" height="64" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-no-sql-data-science-outline-outline-black-m-oki-orlando.png" alt="external-no-sql-data-science-outline-outline-black-m-oki-orlando"/> <img width="64" height="64" src="https://img.icons8.com/color/48/redis--v1.png" alt="redis--v1"/> <img width="64" height="64" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/> <img width="64" height="64" src="https://img.icons8.com/material-rounded/48/web-scraper.png" alt="web-scraper"/> ![Static Badge](https://img.shields.io/badge/Parsing-scraping-build?style=for-the-badge&logoColor=violet&labelColor=violet) <img width="64" height="64" src="https://img.icons8.com/nolan/64/api-settings.png" alt="api-settings"/> <img width="64" height="64" src="https://img.icons8.com/arcade/64/selenium-test-automation.png" alt="selenium-test-automation"/> <img width="64" height="64" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-data-scraping-data-engineering-solid-solidglyph-m-oki-orlando.png" alt="external-data-scraping-data-engineering-solid-solidglyph-m-oki-orlando"/> <img width="64" height="64" src="https://img.icons8.com/pastel-glyph/64/statistics--v3.png" alt="statistics--v3"/> <img width="64" height="64" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/> <img width="64" height="64" src="https://img.icons8.com/color/48/pandas.png" alt="pandas"/> <img width="64" height="64" src="https://img.icons8.com/external-kmg-design-flat-kmg-design/32/external-diagram-marketing-kmg-design-flat-kmg-design.png" alt="external-diagram-marketing-kmg-design-flat-kmg-design"/> ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seaborn-brightblue?style=for-the-badge&logo=simple-icons) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) <img width="64" height="64" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-natural-artificial-intelligence-outline-black-m-oki-orlando.png" alt="external-natural-artificial-intelligence-outline-black-m-oki-orlando"/> ![Static Badge](https://img.shields.io/badge/CatBoost-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/XGBoost-lightblue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Arima-lightgreen?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/NeuralProphet-brightgreen?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/lightfm-brown?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/nltk-blue?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) <img width="64" height="64" src="https://img.icons8.com/color/48/docker.png" alt="docker"/> <img width="64" height="64" src="https://img.icons8.com/ios/50/flask.png" alt="flask"/> <img width="64" height="64" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" alt="hadoop-distributed-file-system"/> <img width="64" height="64" src="https://img.icons8.com/stickers/100/artificial-intelligence.png" alt="artificial-intelligence"/> <img width="64" height="64" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/> ![Static Badge](https://img.shields.io/badge/optuna-black?style=for-the-badge)
 
 
@@ -78,7 +73,7 @@ to solve business problems, automate and optimise processes.
 
 
 
-##### Plan for the near future 😍
+#### Plan for the near future 😍
 <img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNvbHlrdzZwbjBtM2EyaGF6cGFnOGozNm1mNHV4aTJzbmh2anNkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2EoSqwfElSmMoNpo8/giphy.gif width=20% height=20% align="right">
 <li>Interesting remote job in a friendly ambitious team</li>
 <li>Enhance knowledge and professional skills</li>
