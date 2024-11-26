@@ -20,49 +20,32 @@ to solve business problems, automate and optimise processes.
 <h2><center>${\color{red}Competences}$</h1></center></h1>
 
 <h4>$${\color{blue}1. Data Engineering, Data Mining}$$</h2>
- <ul>1. Base skills to work with <b>relational database</b> as well as <b>non-relational DB</b>: 
-               <li>key-value</li> 
-               <li>column-based</li> 
-               <li>document-based</li>
-  </ul>
+ <ul>1. Base skills to work with <b>relational database</b> as well as <b>non-relational DB</b>:</ul>
+ 
+ |key-value|column-based|document-based|
+  |-----|-----|------|
   <ul>2. <b>Scraping-Parsing</b> skills: requests, bs4, API REST, selenium</ul>
  
  <h4>$${\color{blue}2. Feature Engineering}$$</h2>
  <li>Data cleaning and transformation, generation of new features</li>
 
  <h4>$${\color{blue}3. Exploratory Data Analysis}$$</h2>
- <ul>1. <b>Mathematical, statistical Data analysis</b>, discover insights, specificies using any visualisation libraries:
-               <li>matplotlib</li> 
-               <li>seaborn</li> 
-               <li>plotly</li>
-               <li>numpy</li> 
-               <li>pandas</li> 
-               <li>statsmodels</li></li> 
-               <li>scipy</li> 
- </ul>
- 
+ <ul>1. <b>Mathematical, statistical Data analysis</b>, discover insights, specificies using any visualisation libraries:</ul>
+   
+  |matplotlib|seaborn|plotly|numpy|pandas|scipy|statsmodels|
+  |-----|-----|------|-----|-----|-----|-----|
+  
 <h4>$${\color{blue}4. Machine Learning}$$</h2>
-<ul>1. High level of ML skills building from simple to ensemble models: 
-               <li>Linear/Logistic models</li> 
-               <li>DecisionTree</li> 
-               <li>Bagging</li>
-               <li>Boosting</li> 
-               <li>Stacking</li> 
-               <li>Time Series</li></li> 
-               <li>NLP</li> 
-               <li>Recommendation System</li>
-               <li>Neural Network</li>
-</ul>
-<ul>2. Advanced user:  
-               <li>scikit-sklearn</li> 
-               <li>catboost</li>
-               <li>xgboost</li> 
-               <li>arima/garch</li> 
-               <li>prophet</li></li> 
-               <li>nlkt</li> 
-               <li>lightfm</li>
-               <li>tensorflow</li>
-</ul>
+<ul>1. High level of ML skills building from simple to ensemble models:</ul>
+
+  |Linear/Logistic models|DecisionTree|Bagging|Boosting|Stacking|Time Series|NLP|Recommendation System|Neural Network|
+  |-----|-----|------|-----|-----|-----|-----|------|-----|
+               
+<ul>2. Advanced user: </ul> 
+
+  |scikit-sklearn|catboost|xgboost|arima/garch|prophet|nltk|lightfm|tensorflow|
+  |-----|-----|------|-----|-----|-----|-----|------|
+              
 <ul>3. Algorithm optimisation using hyperparameter tuning: hyperopt, optuma</ul>  
 
 <h4>$${\color{blue}5. Evaluation}$$</h2>
