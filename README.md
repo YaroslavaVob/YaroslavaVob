@@ -3,15 +3,9 @@
 <h4>👩ABOUT ME</h4> 
 
 ```
-I am a purposeful Data Scientist who has gained extensive training experience in data analysis and machine learning.
+I am an aspiring Data Scientist who has gained extensive experience in data analysis and machine learning.
 
-My life way includes setting up and running my own business as well as working in customer service,
-which has developed my communication and multi-tasking skills.
-
-I have a high level of learning and research curiosity, which enables me to successfully solve complex problems.
-
-I am confident in Python, SQL and modern tools for data analysis, creating and applying ML algorithms
-to solve business problems, automate and optimise processes. 
+Despite starting my journey in Data Science in June 2023, I have mastered Python and SQL and now successfully apply modern tools for data mining, analysis, and building algorithms across a wide range of machine learning tasks.
 ```
 
 ### ${\color{red}My}$ ${\color{red}living}$ ${\color{red}environment: }$ 
