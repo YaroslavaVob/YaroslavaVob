@@ -5,7 +5,8 @@
 ```
 I am an aspiring Data Scientist who has gained extensive experience in data analysis and machine learning.
 
-Despite starting my journey in Data Science in June 2023, I have mastered Python and SQL and now successfully apply modern tools for data mining, analysis, and building algorithms across a wide range of machine learning tasks.
+Despite starting my journey in Data Science in June 2023, I have mastered Python and SQL.
+Now I successfully apply modern tools for data mining, analysis, and building algorithms across a wide range of machine learning tasks.
 ```
 
 ### ${\color{red}My}$ ${\color{red}living}$ ${\color{red}environment: }$ 
