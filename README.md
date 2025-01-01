@@ -83,7 +83,7 @@ Now I successfully apply modern tools for data mining, analysis, and building al
 * **[6. Проверка достоверности рейтинга отеля](https://www.kaggle.com/code/yaroslavav11/model-to-predict-reviews-of-hotels)**
 * **[7. Captcha _prediction](https://www.kaggle.com/code/yaroslavav11/captcha-prediction-tf-ipynb)**
 * **[8. Prediction_of_movie's genre](https://www.kaggle.com/code/yaroslavav11/genre-of-movie-nn)**
-* **[9. Прогнозирование бизнес-драйверов (кейс 7 в хакатоне ФИЦ 2024)]()**
+* **[9. Прогнозирование бизнес-драйверов (первое участие в хакатоне)](https://github.com/YaroslavaVob/Hackathons/tree/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D1%8B/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%201)**
 
   
 #### Plan for the near future 😍
@@ -100,5 +100,5 @@ Now I successfully apply modern tools for data mining, analysis, and building al
 * ✏️E-mail: <a href="E-mail:8177916@gmail.com">8177916@gmail.com</a>
 
 
-<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlzYWliZHNhcWprbXJmaDh6MHg4enYwbGRxYXh6eWVtcTQwOHBqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11jimyT7ARC277iiI3/giphy.gif width=50% height=50% align="center">
+<img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlzYWliZHNhcWprbXJmaDh6MHg4enYwbGRxYXh6eWVtcTQwOHBqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11jimyT7ARC277iiI3/giphy.gif width=40% height=40% align="center">
 
