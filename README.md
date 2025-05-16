@@ -48,12 +48,12 @@ Now I successfully apply modern tools for data mining, analysis, and building al
   * Neural Network
 * **Frameworks and libraries**:
   * scikit-sklearn
-  * catboost, xgboost
+  * catboost, xgboost, LightGBM
   * arima/garch, prophet
   * nltk, gensim
-  * lightfm
+  * lightfm, implicit, surprise
   * lightAutoML
-  * tensorflow
+  * tensorflow/keras
 * **Optimization**: Expertise in algorithm optimization with hyperparameter tuning tools like Hyperopt and Optuna.
 
 <h3>${\color{blue}5. Evaluation}$</h3>
@@ -84,6 +84,10 @@ Now I successfully apply modern tools for data mining, analysis, and building al
 * **[7. Captcha _prediction](https://www.kaggle.com/code/yaroslavav11/captcha-prediction-tf-ipynb)**
 * **[8. Prediction_of_movie's genre](https://www.kaggle.com/code/yaroslavav11/genre-of-movie-nn)**
 * **[9. Прогнозирование бизнес-драйверов (первое участие в хакатоне)](https://github.com/YaroslavaVob/Hackathons/tree/main/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%D1%8B/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD%201)**
+* **[10. Flask развертывание  модели ML на примере датасета Titanic с мониторингом Prometheus&Grafana](https://github.com/YaroslavaVob/Monitoring-Titanic)**
+* **[11. Динамическая маршрутизация транзакций (хакатон декабрь 2024, 3 место, лидер команды)](https://github.com/Pzof1/1team_xmas_hack/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_XMAS_%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D0%B0%D1%8F_1.pdf)**
+* **[12. Интерактивное приложение-прототип для управления библиотекой (streamlit)](https://github.com/YaroslavaVob/Library-managment-system)**
+* **[13. Гибридная рекомендательная система (Flask deployed, Prometheus&Grafana monitoring)](https://github.com/YaroslavaVob/RecommendationSystem)**
 
   
 #### Plan for the near future 😍
